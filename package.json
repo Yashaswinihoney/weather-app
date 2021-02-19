@@ -1,0 +1,22 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "Creating a weather nodejs app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yashaswinihoney/weather-app.git"
+  },
+  "author": "Yashaswini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yashaswinihoney/weather-app/issues"
+  },
+  "homepage": "https://github.com/Yashaswinihoney/weather-app#readme",
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}
